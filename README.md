@@ -37,3 +37,4 @@ Python
 
 Libraries: pandas, numpy, yfinance, statsmodels, scikit-learn, matplotlib, seaborn
 
+This project highlights the importance of testing beyond simple correlations. Even if Granger causality suggests a relationship, it may not always translate into improved predictive performance under different modeling approaches.
